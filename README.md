@@ -13,7 +13,7 @@ Finally, import classes and its done. You will edit tab style on **TabProvider.j
 
 # Contact
 
-If you want to contact me, use Discord. `schaeferrr#0001`
+If you want to contact me, use Discord. `schaefer#0001`
 
 # Result
 ![](https://i.imgur.com/1qEbTPY.png)
